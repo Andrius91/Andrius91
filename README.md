@@ -1,6 +1,6 @@
 # Hi there, I'm Andres👋
 
-- 🔭 I’m currently working on [MineLatino](https://minelatino.com/)
+- 🔭 I’m currently working on [None]
 
 ## About Me
 
